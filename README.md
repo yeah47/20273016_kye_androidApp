@@ -7,6 +7,6 @@
  
  <img width="1100" height="500" src="./png/dog.jpg"></img>
  
- <img width="1100" height="500" src="./png/2주차 과제_20273016김예은.jpg"></img>
+ <img width="1100" height="500" src="./png/2nd week.JPG"></img>
  
  
