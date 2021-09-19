@@ -9,6 +9,11 @@
  
  <img width="1100" height="500" src="./png/2nd week.JPG"></img>
  
+ ## 3주차 수업
+ - 구글화면
+ - 전화번호 입력창 화면
+ 
  <img width="1100" height="500" src="./png/3nd week 1.JPG"></img>
+ 
  <img width="1100" height="500" src="./png/3nd week 2.JPG"></img>
  
