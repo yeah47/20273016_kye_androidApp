@@ -9,6 +9,6 @@
  
  <img width="1100" height="500" src="./png/2nd week.JPG"></img>
  
- <img width="1100" height="500" src="./png/3nd week1.JPG"></img>
- <img width="1100" height="500" src="./png/3nd week2.JPG"></img>
+ <img width="1100" height="500" src="./png/3nd week 1.JPG"></img>
+ <img width="1100" height="500" src="./png/3nd week 2.JPG"></img>
  
