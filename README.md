@@ -22,8 +22,7 @@
   - 스타벅스 레시피 게임
   - 다이어리
  
- <img width="1100" height="500" src="./png/4nd week 1.JPG"></img>
+ <img width="1100" height="500" src="./png/4nd week 1"></img>
  
- <img width="1100" height="500" src="./png/4nd week 2.JPG"></img>
- 
+ <img width="1100" height="500" src="./png/4nd week 2"></img>
  
