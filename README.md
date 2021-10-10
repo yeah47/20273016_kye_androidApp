@@ -22,21 +22,21 @@
   - 스타벅스 레시피 게임
   - 다이어리
  
- <img width="800" height="900" src="./png/4nd week1.jpg"></img>
+ <img width="600" height="900" src="./png/4nd week1.jpg"></img>
  
- <img width="800" height="900" src="./png/4nd week 2.jpg"></img>
+ <img width="600" height="900" src="./png/4nd week 2.jpg"></img>
  
   ## 5주차 수업
  이미지 바꾸기 버튼을 눌러 이미지 변경하기
  
- <img width="800" height="900" src="./png/5nd week 1.JPG"></img>
+ <img width="600" height="900" src="./png/5nd week 1.JPG"></img>
  
- <img width="800" height="900" src="./png/5nd week 2.JPG"></img>
+ <img width="600" height="900" src="./png/5nd week 2.JPG"></img>
  
    ## 6주차 수업
    
   - 한 개의 버튼을 클릭하면 하단에 width 크기 값을 표시
   - 또 다른 버튼을 클릭하면 하단에 height 크기 값을 표시
   
- <img width="800" height="900" src="./png/6nd week.gif"></img>
+ <img width="600" height="900" src="./png/6nd week.gif"></img>
  
