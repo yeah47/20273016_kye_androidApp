@@ -36,6 +36,6 @@
    ## 6주차 수업
    
   - 한 개의 버튼을 클릭하면 하단에 width 크기 값을 표시
-
   - 또 다른 버튼을 클릭하면 하단에 height 크기 값을 표시
+ <img width="800" height="1100" src="./png/6nd week 2.gif"></img>
  
