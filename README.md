@@ -37,5 +37,5 @@
    
   - 한 개의 버튼을 클릭하면 하단에 width 크기 값을 표시
   - 또 다른 버튼을 클릭하면 하단에 height 크기 값을 표시
- <img width="80%" src="20273016_kye_androidApp/png/6nd week.gif"></img>
+ <img width="800" height="1100" src="./png/6nd week.gif"></img>
  
