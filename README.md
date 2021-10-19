@@ -40,3 +40,9 @@
   
  <img width="600" height="900" src="./png/6nd week.gif"></img>
  
+ ## 7주차 수업
+   
+  - SMS 입력화면 만들고 글자 수 표시하기
+  
+ <img width="600" height="900" src="./png/6nd week.gif"></img>
+ 
