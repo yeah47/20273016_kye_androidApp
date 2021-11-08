@@ -53,3 +53,9 @@
 - 셰이프 드로어블 만들기 (layer-list)
 
  <img width="600" height="900" src="./png/9nd week.gif"></img>
+ 
+ ## 10주차 수업
+ 
+- 여러화면 만들고, 화면간 전환하기
+
+ <img width="600" height="900" src="./png/10nd week.gif"></img>
