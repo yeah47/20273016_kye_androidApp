@@ -59,3 +59,9 @@
 - 여러화면 만들고, 화면간 전환하기
 
  <img width="600" height="900" src="./png/10nd week.gif"></img>
+
+ ## 11주차 수업
+ 
+- 웹으로 요청하기
+
+ <img width="600" height="900" src="./png/11nd week.gif"></img>
