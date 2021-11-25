@@ -70,4 +70,4 @@
  
 - 리싸이클러뷰 만들기
 
- <img width="600" height="900" src="./png/12nd week.jpg"></img>
+ <img width="600" height="900" src="./png/12nd week.jpg.JPG"></img>
